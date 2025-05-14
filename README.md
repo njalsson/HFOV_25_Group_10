@@ -1,8 +1,8 @@
-#
+# HFOV_25_10
 
-### Hópur:
+T-333-HFOV
 
-HFOV 2025 group 10
+## Group 10
 
 ### Teamwork makes the dreamwork!
 
@@ -18,7 +18,7 @@ Meðlimir:
 
 ## Risk Management
 
-- [Risk Management Report (pdf)](https:/rerere.is)
+- [Risk Management Report (pdf)](https://github.com/njalsson/HFOV_25_Group_10/blob/main/docs/Risk_Assessment_Report.pdf)
 
 ## Version Plan Board
 
